@@ -1,0 +1,43 @@
+﻿a:link {
+    text-decoration: none;
+    font-size: 12px;
+    font-family: serif;
+    font-style: normal;
+}
+
+a:hover {
+    font-size: 18px;
+    color: yellow;
+}
+
+.Buton {
+    background-color: orange;
+    font-family: fantasy;
+    font-size: 12px;
+}
+.tb5{
+    border: solid #466879;
+    border-radius:10px;
+    height:22px;
+    width:230px;
+}
+.btn {
+    background-color: white;
+    border: 2px solid #09F;
+    border-radius:8px;
+    color: #09F;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12pt;
+    font-family:Verdana;
+    margin: 4px 2px;
+    transition:all 0.4s;	
+    -webkit-transition:all 0.4s;
+    -moz-transition:all 0.4s;
+    -o-transition:all 0.4s;
+}
+.btn:hover{
+    box-shadow: 0 4px 8px 0 gray, 0 6px 20px 0 gray;
+}
